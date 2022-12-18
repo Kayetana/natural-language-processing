@@ -1,0 +1,13 @@
+75/25
+Gaussian Naive Bayes
+Mean accuracy:  0.9644808743169399
+C-Support Vector Classification
+Mean accuracy:  0.9521857923497268
+----------
+50/50
+Gaussian Naive Bayes
+Mean accuracy:  0.9474043715846995
+C-Support Vector Classification
+Mean accuracy:  0.9221311475409836
+
+Process finished with exit code 0

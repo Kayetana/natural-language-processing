@@ -1,0 +1,128 @@
+1. Word:
+
+['000' '10' '100' '2021' '2023' '29' '50' '700' '900' '999' 'able'
+ 'accessibility' 'accessible' 'across' 'actually' 'added' 'adding'
+ 'addition' 'additional' 'address' 'addressing' 'agent' 'agents' 'allow'
+ 'allows' 'also' 'although' 'am' 'among' 'an' 'and' 'animation'
+ 'announced' 'any' 'app' 'appeared' 'apple' 'application' 'apps' 'are'
+ 'as' 'aspects' 'astigmatism' 'at' 'augmented' 'automation' 'available'
+ 'balance' 'baseline' 'be' 'become' 'been' 'before' 'begin' 'being'
+ 'believes' 'best' 'better' 'between' 'big' 'biggest' 'blended'
+ 'blindness' 'board' 'bot' 'bots' 'brand' 'brands' 'breaking' 'briefly'
+ 'brings' 'but' 'by' 'called' 'can' 'capabilities' 'caught' 'cent' 'cents'
+ 'ceo' 'challenges' 'change' 'changes' 'channels' 'charge' 'choose' 'code'
+ 'cognitive' 'color' 'combined' 'combines' 'comes' 'commonly' 'company'
+ 'component' 'consumers' 'continuing' 'control' 'conversation'
+ 'conversational' 'conversations' 'country' 'create' 'customer'
+ 'customers' 'customization' 'days' 'delegate' 'deliver' 'designed' 'desk'
+ 'detail' 'detailing' 'developer' 'developers' 'different'
+ 'differentiator' 'disorders' 'don' 'drastic' 'dreamed' 'driven'
+ 'dyslexia' 'early' 'end' 'ensuring' 'entire' 'even' 'ever' 'every'
+ 'exactly' 'exchange' 'expect' 'expectations' 'expected' 'experience'
+ 'explained' 'explains' 'facilitate' 'fact' 'far' 'faster' 'feature' 'few'
+ 'first' 'flexibility' 'flow' 'focus' 'for' 'foreign' 'form' 'framework'
+ 'frequent' 'from' 'front' 'frustration' 'functions' 'future' 'gain' 'get'
+ 'getting' 'give' 'globally' 'go' 'good' 'ground' 'guard' 'guide' 'guided'
+ 'happiness' 'hard' 'has' 'hate' 'have' 'he' 'head' 'help' 'higher'
+ 'historically' 'however' 'human' 'hundreds' 'im' 'impairments'
+ 'impersonal' 'important' 'improvement' 'improvements' 'in' 'include'
+ 'including' 'increase' 'incrementally' 'increments' 'independently'
+ 'industry' 'infamous' 'initial' 'inquiries' 'instagram' 'instant'
+ 'integrate' 'integrated' 'interface' 'intervention' 'involving' 'iphone'
+ 'is' 'issues' 'it' 'its' 'itself' 'jobs' 'just' 'key' 'kind'
+ 'krishnaswami' 'last' 'latest' 'launch' 'launched' 'learned' 'left'
+ 'like' 'line' 'little' 'lot' 'low' 'made' 'majority' 'make' 'makes'
+ 'making' 'manage' 'manual' 'many' 'market' 'meaning' 'means' 'meanwhile'
+ 'measuring' 'messaging' 'messenger' 'middle' 'mile' 'more' 'most' 'move'
+ 'much' 'nearly' 'needs' 'new' 'news' 'not' 'now' 'number' 'of' 'off'
+ 'offer' 'offering' 'on' 'one' 'options' 'or' 'order' 'organizations'
+ 'other' 'out' 'over' 'overall' 'overhaul' 'own' 'pace' 'pandemic' 'per'
+ 'place' 'plans' 'platform' 'play' 'points' 'possible' 'powered'
+ 'prashanth' 'pre' 'prefer' 'previously' 'price' 'prices' 'pricing'
+ 'principal' 'priority' 'process' 'provider' 'publish' 'quickly' 'ranges'
+ 'rates' 're' 'really' 'reduction' 'refinements' 'reflects' 'region'
+ 'relationship' 'remaining' 'request' 'requests' 'resources' 'responded'
+ 'result' 'rich' 'rise' 'role' 'rolling' 'run' 'saas' 'said'
+ 'satisfaction' 'says' 'seamless' 'see' 'seizure' 'selection' 'self'
+ 'sense' 'serve' 'service' 'serviceability' 'services' 'setting' 'several'
+ 'shift' 'simpler' 'since' 'site' 'so' 'some' 'something' 'source'
+ 'spectrum' 'stages' 'start' 'started' 'steve' 'store' 'strategy'
+ 'support' 'system' 'table' 'tandem' 'tasks' 'telegram' 'than' 'that'
+ 'the' 'their' 'then' 'there' 'they' 'this' 'those' 'three' 'through'
+ 'throughout' 'time' 'times' 'to' 'today' 'together' 'took' 'tool' 'tools'
+ 'toward' 'transactional' 'troubleshoot' 'true' 'truly' 'two'
+ 'understanding' 'up' 'updates' 'use' 'useless' 'user' 'users' 'via'
+ 'virtual' 'visual' 'want' 'was' 'way' 'we' 'wechat' 'well' 'what'
+ 'whatsapp' 'when' 'which' 'while' 'wide' 'will' 'with' 'work' 'would'
+ 'year' 'years' 'zoho']
+Array:
+[[0 0 0 ... 0 0 2]
+ [0 0 0 ... 1 0 1]
+ [0 0 0 ... 0 1 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 4 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+
+2. Bigram:
+
+[' $' ' (' ' 1' ' 2' ' 5' ' 7' ' 9' ' a' ' b' ' c' ' d' ' e' ' f' ' g'
+ ' h' ' i' ' j' ' k' ' l' ' m' ' n' ' o' ' p' ' q' ' r' ' s' ' t' ' u'
+ ' v' ' w' ' y' ' z' ' —' ' ‘' ' “' '$1' '$5' '$9' "'s" '(i' ') ' ', '
+ ',0' ',”' '-b' '-c' '-d' '-e' '-i' '-p' '-s' '-t' '. ' '.”' '0 ' '0,'
+ '0-' '00' '02' '1 ' '10' '20' '21' '23' '29' '3.' '50' '70' '9 ' '90'
+ '99' ': ' '; ' 'a ' 'aa' 'ab' 'ac' 'ad' 'ag' 'ai' 'aj' 'ak' 'al' 'am'
+ 'an' 'ap' 'ar' 'as' 'at' 'au' 'av' 'ay' 'ba' 'be' 'bi' 'bl' 'bo' 'br'
+ 'bs' 'bu' 'by' 'c ' 'c,' 'ca' 'cc' 'ce' 'ch' 'ci' 'ck' 'cl' 'co' 'cr'
+ 'ct' 'cu' 'd ' 'd,' 'd-' 'd.' 'da' 'dd' 'de' 'di' 'dl' 'dn' 'do' 'dr'
+ 'ds' 'du' 'dy' 'd”' 'e ' 'e,' 'e-' 'e.' 'ea' 'ec' 'ed' 'ee' 'ef' 'eg'
+ 'ei' 'el' 'em' 'en' 'eo' 'ep' 'eq' 'er' 'es' 'et' 'ev' 'ew' 'ex' 'ey'
+ 'e—' 'e’' 'f ' 'f,' 'f-' 'fa' 'fe' 'ff' 'fi' 'fl' 'fo' 'fr' 'ft' 'fu'
+ 'g ' 'g.' 'ga' 'ge' 'gg' 'gh' 'gi' 'gl' 'gm' 'gn' 'go' 'gr' 'gs' 'gu'
+ 'gy' 'h ' 'h,' 'ha' 'he' 'hi' 'hn' 'ho' 'hr' 'ht' 'hu' 'h’' 'i ' 'i,'
+ 'ia' 'ib' 'ic' 'id' 'ie' 'if' 'ig' 'ik' 'il' 'im' 'in' 'io' 'ip' 'ir'
+ 'is' 'it' 'iv' 'iz' 'jo' 'ju' 'k ' 'k,' 'ke' 'ki' 'kl' 'kr' 'ks' 'l '
+ 'l,' 'la' 'ld' 'le' 'lf' 'li' 'll' 'lo' 'lp' 'ls' 'lt' 'lu' 'lv' 'ly'
+ 'm ' 'm)' 'm,' 'm;' 'ma' 'mb' 'me' 'mi' 'ml' 'mm' 'mo' 'mp' 'mu' 'n '
+ 'n,' 'n-' 'n.' 'na' 'nc' 'nd' 'ne' 'nf' 'ng' 'ni' 'nl' 'nn' 'no' 'nq'
+ 'ns' 'nt' 'nu' 'nv' 'nw' 'ny' 'n—' 'n’' 'o ' "o'" 'o,' 'o-' 'oa' 'ob'
+ 'oc' 'od' 'of' 'og' 'oh' 'oi' 'ok' 'ol' 'om' 'on' 'oo' 'op' 'or' 'os'
+ 'ot' 'ou' 'ov' 'ow' 'p ' 'p,' 'pa' 'pd' 'pe' 'ph' 'pi' 'pl' 'po' 'pp'
+ 'pr' 'ps' 'pt' 'pu' 'qu' 'r ' 'r,' 'r-' 'r.' 'ra' 'rc' 'rd' 're' 'rf'
+ 'rg' 'rh' 'ri' 'rk' 'rl' 'rm' 'rn' 'ro' 'rs' 'rt' 'ru' 'rv' 'ry' 's '
+ 's,' 's.' 's;' 'sa' 'se' 'sf' 'sh' 'si' 'sk' 'sl' 'sm' 'so' 'sp' 'ss'
+ 'st' 'su' 'sw' 'sy' 's”' 't ' "t'" 't,' 't-' 't.' 't:' 'ta' 'te' 'tf'
+ 'th' 'ti' 'tl' 'to' 'tr' 'ts' 'tt' 'tu' 'tw' 'ty' 'ua' 'ub' 'uc' 'ud'
+ 'ue' 'ug' 'ui' 'ul' 'um' 'un' 'up' 'ur' 'us' 'ut' 'va' 've' 'vi' 'vo'
+ 'w ' 'w,' 'wa' 'we' 'wh' 'wi' 'wn' 'wo' 'ws' 'xa' 'xc' 'xi' 'xp' 'y '
+ "y'" 'y,' 'y.' 'ye' 'ys' 'y’' 'za' 'zo' 'zu' '— ' '—a' '‘i' '’ ' '’r'
+ '’s' '’t' '“a' '“b' '“i' '“m' '“p' '“t' '” ']
+Array:
+[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 1]
+ ...
+ [0 0 0 ... 0 0 0]
+ [3 0 2 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+
+3. Phrase:
+
+['000 which' '000 which are' '10 000' ... 'zoho in 2021' 'zoho instant'
+ 'zoho instant messaging']
+Array:
+[[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+
+Before decomposition:
+31 1626
+
+After decomposition:
+31 31
+
+Process finished with exit code 0
